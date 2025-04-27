@@ -161,7 +161,7 @@ Performance benchmarks were conducted to evaluate the speed of each AES mode for
 
 ### Test Setup
 
-- **Processor:** AMD Ryzen 9 9800X3D  
+- **Processor:** AMD Ryzen 7 9800X3D  
 - **Data:** 1000 MB of randomly generated data  
 - **Key & IV:** Randomly generated 128-bit key and initialization vector for each test  
 - **Repetitions:** 10 runs per AES mode using the same data, key, and IV set
